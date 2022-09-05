@@ -1,0 +1,118 @@
+06/15/2022 21:49:55 - WARNING - __main__ - Process rank: -1, device: cuda:0, n_gpu: 1distributed training: False, 16-bits training: False
+06/15/2022 21:49:55 - INFO - __main__ - Training/evaluation parameters TrainingArguments(
+_n_gpu=1,
+adafactor=False,
+adam_beta1=0.9,
+adam_beta2=0.999,
+adam_epsilon=1e-08,
+bf16=False,
+bf16_full_eval=False,
+data_seed=None,
+dataloader_drop_last=False,
+dataloader_num_workers=0,
+dataloader_pin_memory=True,
+ddp_bucket_cap_mb=None,
+ddp_find_unused_parameters=None,
+debug=[],
+deepspeed=None,
+disable_tqdm=False,
+do_eval=True,
+do_predict=False,
+do_train=True,
+eval_accumulation_steps=None,
+eval_delay=0,
+eval_steps=None,
+evaluation_strategy=IntervalStrategy.NO,
+fp16=False,
+fp16_backend=auto,
+fp16_full_eval=False,
+fp16_opt_level=O1,
+gradient_accumulation_steps=1,
+gradient_checkpointing=False,
+greater_is_better=None,
+group_by_length=False,
+half_precision_backend=auto,
+hub_model_id=None,
+hub_strategy=HubStrategy.EVERY_SAVE,
+hub_token=<HUB_TOKEN>,
+ignore_data_skip=False,
+label_names=None,
+label_smoothing_factor=0.0,
+learning_rate=2e-05,
+length_column_name=length,
+load_best_model_at_end=False,
+local_rank=-1,
+log_level=-1,
+log_level_replica=-1,
+log_on_each_node=True,
+logging_dir=/nvme/.cache/outputs/mrpc_random/runs/Jun15_21-49-54_HOST-10-142-40-17,
+logging_first_step=False,
+logging_nan_inf_filter=True,
+logging_steps=500,
+logging_strategy=IntervalStrategy.STEPS,
+lr_scheduler_type=SchedulerType.LINEAR,
+max_grad_norm=1.0,
+max_steps=-1,
+metric_for_best_model=None,
+mp_parameters=,
+no_cuda=False,
+num_train_epochs=4.0,
+optim=OptimizerNames.ADAMW_HF,
+output_dir=/nvme/.cache/outputs/mrpc_random,
+overwrite_output_dir=True,
+past_index=-1,
+per_device_eval_batch_size=8,
+per_device_train_batch_size=2,
+prediction_loss_only=False,
+push_to_hub=False,
+push_to_hub_model_id=None,
+push_to_hub_organization=None,
+push_to_hub_token=<PUSH_TO_HUB_TOKEN>,
+remove_unused_columns=True,
+report_to=[],
+resume_from_checkpoint=None,
+run_name=/nvme/.cache/outputs/mrpc_random,
+save_on_each_node=False,
+save_steps=500,
+save_strategy=IntervalStrategy.STEPS,
+save_total_limit=None,
+seed=58,
+sharded_ddp=[],
+skip_memory_metrics=True,
+tf32=None,
+tpu_metrics_debug=False,
+tpu_num_cores=None,
+use_legacy_prediction_loop=False,
+warmup_ratio=0.0,
+warmup_steps=0,
+weight_decay=0.0,
+xpu_backend=None,
+)
+06/15/2022 21:50:01 - INFO - datasets.info - Loading Dataset Infos from /home/sysuser/.cache/huggingface/modules/datasets_modules/datasets/glue/dacbe3125aa31d7f70367a07a8a9e72a5a0bfeb5fc42e75c9db75b96da6053ad
+06/15/2022 21:50:01 - INFO - datasets.builder - Overwrite dataset info from restored data version.
+06/15/2022 21:50:01 - INFO - datasets.info - Loading Dataset info from /home/sysuser/.cache/huggingface/datasets/glue/mrpc/1.0.0/dacbe3125aa31d7f70367a07a8a9e72a5a0bfeb5fc42e75c9db75b96da6053ad
+06/15/2022 21:50:01 - WARNING - datasets.builder - Reusing dataset glue (/home/sysuser/.cache/huggingface/datasets/glue/mrpc/1.0.0/dacbe3125aa31d7f70367a07a8a9e72a5a0bfeb5fc42e75c9db75b96da6053ad)
+06/15/2022 21:50:01 - INFO - datasets.info - Loading Dataset info from /home/sysuser/.cache/huggingface/datasets/glue/mrpc/1.0.0/dacbe3125aa31d7f70367a07a8a9e72a5a0bfeb5fc42e75c9db75b96da6053ad
+06/15/2022 21:50:18 - WARNING - datasets.arrow_dataset - Loading cached processed dataset at /home/sysuser/.cache/huggingface/datasets/glue/mrpc/1.0.0/dacbe3125aa31d7f70367a07a8a9e72a5a0bfeb5fc42e75c9db75b96da6053ad/cache-facccc39449f29e7.arrow
+06/15/2022 21:50:18 - WARNING - datasets.arrow_dataset - Loading cached processed dataset at /home/sysuser/.cache/huggingface/datasets/glue/mrpc/1.0.0/dacbe3125aa31d7f70367a07a8a9e72a5a0bfeb5fc42e75c9db75b96da6053ad/cache-c319fda9ff67720c.arrow
+06/15/2022 21:50:18 - WARNING - datasets.arrow_dataset - Loading cached processed dataset at /home/sysuser/.cache/huggingface/datasets/glue/mrpc/1.0.0/dacbe3125aa31d7f70367a07a8a9e72a5a0bfeb5fc42e75c9db75b96da6053ad/cache-2aced9677a5e17cc.arrow
+{'train_runtime': 14.7268, 'train_samples_per_second': 27.161, 'train_steps_per_second': 13.581, 'train_loss': 0.5989259719848633, 'epoch': 4.0}
+***** train metrics *****
+  epoch                    =        4.0
+  train_loss               =     0.5989
+  train_runtime            = 0:00:14.72
+  train_samples            =        100
+  train_samples_per_second =     27.161
+  train_steps_per_second   =     13.581
+06/15/2022 21:50:57 - INFO - __main__ - *** Evaluate ***
+06/15/2022 21:50:57 - INFO - datasets.metric - Removing /home/sysuser/.cache/huggingface/metrics/glue/mrpc/default_experiment-1-0.arrow
+***** eval metrics *****
+  epoch                   =        4.0
+  eval_accuracy           =     0.8008
+  eval_combined_score     =     0.8335
+  eval_f1                 =     0.8661
+  eval_loss               =     0.8318
+  eval_runtime            = 0:00:00.61
+  eval_samples            =        256
+  eval_samples_per_second =    415.095
+  eval_steps_per_second   =     51.887

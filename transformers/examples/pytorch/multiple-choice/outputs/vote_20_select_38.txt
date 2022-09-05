@@ -1,0 +1,117 @@
+06/16/2022 03:53:38 - WARNING - __main__ - Process rank: -1, device: cuda:0, n_gpu: 1distributed training: False, 16-bits training: False
+06/16/2022 03:53:38 - INFO - __main__ - Training/evaluation parameters TrainingArguments(
+_n_gpu=1,
+adafactor=False,
+adam_beta1=0.9,
+adam_beta2=0.999,
+adam_epsilon=1e-08,
+bf16=False,
+bf16_full_eval=False,
+data_seed=None,
+dataloader_drop_last=False,
+dataloader_num_workers=0,
+dataloader_pin_memory=True,
+ddp_bucket_cap_mb=None,
+ddp_find_unused_parameters=None,
+debug=[],
+deepspeed=None,
+disable_tqdm=False,
+do_eval=True,
+do_predict=False,
+do_train=True,
+eval_accumulation_steps=None,
+eval_delay=0,
+eval_steps=None,
+evaluation_strategy=IntervalStrategy.NO,
+fp16=False,
+fp16_backend=auto,
+fp16_full_eval=False,
+fp16_opt_level=O1,
+gradient_accumulation_steps=1,
+gradient_checkpointing=False,
+greater_is_better=None,
+group_by_length=False,
+half_precision_backend=auto,
+hub_model_id=None,
+hub_strategy=HubStrategy.EVERY_SAVE,
+hub_token=<HUB_TOKEN>,
+ignore_data_skip=False,
+label_names=None,
+label_smoothing_factor=0.0,
+learning_rate=2e-05,
+length_column_name=length,
+load_best_model_at_end=False,
+local_rank=-1,
+log_level=-1,
+log_level_replica=-1,
+log_on_each_node=True,
+logging_dir=/nvme/.cache/swag_base_vote_20_select/runs/Jun16_03-53-38_HOST-10-142-40-17,
+logging_first_step=False,
+logging_nan_inf_filter=True,
+logging_steps=500,
+logging_strategy=IntervalStrategy.STEPS,
+lr_scheduler_type=SchedulerType.LINEAR,
+max_grad_norm=1.0,
+max_steps=-1,
+metric_for_best_model=None,
+mp_parameters=,
+no_cuda=False,
+num_train_epochs=6.0,
+optim=OptimizerNames.ADAMW_HF,
+output_dir=/nvme/.cache/swag_base_vote_20_select,
+overwrite_output_dir=True,
+past_index=-1,
+per_device_eval_batch_size=8,
+per_device_train_batch_size=2,
+prediction_loss_only=False,
+push_to_hub=False,
+push_to_hub_model_id=None,
+push_to_hub_organization=None,
+push_to_hub_token=<PUSH_TO_HUB_TOKEN>,
+remove_unused_columns=True,
+report_to=[],
+resume_from_checkpoint=None,
+run_name=/nvme/.cache/swag_base_vote_20_select,
+save_on_each_node=False,
+save_steps=500,
+save_strategy=IntervalStrategy.STEPS,
+save_total_limit=None,
+seed=38,
+sharded_ddp=[],
+skip_memory_metrics=True,
+tf32=None,
+tpu_metrics_debug=False,
+tpu_num_cores=None,
+use_legacy_prediction_loop=False,
+warmup_ratio=0.0,
+warmup_steps=0,
+weight_decay=0.0,
+xpu_backend=None,
+)
+06/16/2022 03:53:44 - WARNING - datasets.builder - Using custom data configuration default
+06/16/2022 03:53:44 - INFO - datasets.info - Loading Dataset Infos from /home/sysuser/.cache/huggingface/modules/datasets_modules/datasets/hellaswag/c8c5bc30147e6345a39bfabe8856829801d4db7beb0271e44021811974fac112
+06/16/2022 03:53:44 - INFO - datasets.builder - Overwrite dataset info from restored data version.
+06/16/2022 03:53:44 - INFO - datasets.info - Loading Dataset info from /home/sysuser/.cache/huggingface/datasets/hellaswag/default/0.1.0/c8c5bc30147e6345a39bfabe8856829801d4db7beb0271e44021811974fac112
+06/16/2022 03:53:44 - WARNING - datasets.builder - Reusing dataset hellaswag (/home/sysuser/.cache/huggingface/datasets/hellaswag/default/0.1.0/c8c5bc30147e6345a39bfabe8856829801d4db7beb0271e44021811974fac112)
+06/16/2022 03:53:44 - INFO - datasets.info - Loading Dataset info from /home/sysuser/.cache/huggingface/datasets/hellaswag/default/0.1.0/c8c5bc30147e6345a39bfabe8856829801d4db7beb0271e44021811974fac112
+06/16/2022 03:54:02 - INFO - datasets.arrow_dataset - Caching processed dataset at /home/sysuser/.cache/huggingface/datasets/hellaswag/default/0.1.0/c8c5bc30147e6345a39bfabe8856829801d4db7beb0271e44021811974fac112/cache-04fb496ab1b9981f.arrow
+06/16/2022 03:54:02 - WARNING - datasets.arrow_dataset - Loading cached processed dataset at /home/sysuser/.cache/huggingface/datasets/hellaswag/default/0.1.0/c8c5bc30147e6345a39bfabe8856829801d4db7beb0271e44021811974fac112/cache-b74a86407d3affb8.arrow
+06/16/2022 03:54:38 - WARNING - datasets.arrow_dataset - Loading cached processed dataset at /home/sysuser/.cache/huggingface/datasets/hellaswag/default/0.1.0/c8c5bc30147e6345a39bfabe8856829801d4db7beb0271e44021811974fac112/cache-6d1b16a0f890f4b0.arrow
+{'train_runtime': 29.7241, 'train_samples_per_second': 20.186, 'train_steps_per_second': 10.093, 'train_loss': 1.3604928588867187, 'epoch': 6.0}
+***** train metrics *****
+  epoch                    =        6.0
+  train_loss               =     1.3605
+  train_runtime            = 0:00:29.72
+  train_samples            =        100
+  train_samples_per_second =     20.186
+  train_steps_per_second   =     10.093
+06/16/2022 03:55:52 - INFO - __main__ - *** Evaluate ***
+[-1.404936  -1.3095787 -1.4438865 -1.6543039]
+***** eval metrics *****
+  epoch                   =        6.0
+  eval_accuracy           =     0.3555
+  eval_loss               =     1.3484
+  eval_runtime            = 0:00:00.76
+  eval_samples            =        256
+  eval_samples_per_second =    336.688
+  eval_steps_per_second   =     21.043

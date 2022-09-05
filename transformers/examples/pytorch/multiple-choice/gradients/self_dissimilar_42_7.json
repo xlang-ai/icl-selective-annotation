@@ -1,0 +1,1302 @@
+{
+    "11844": {
+        "ctx": "A girl is shown on the gymnastics floor preparing to do a baton routine. The routine begins as she starts to dance around the floor and twirl her batons. the routine",
+        "gradients": [
+            2829.9807667615783,
+            3982.379891460159,
+            30032.42071345669
+        ],
+        "updates": [
+            3640.7890342008905,
+            2525.096676263672,
+            1210.3466980964365
+        ]
+    },
+    "5096": {
+        "ctx": "They come and open the door and another old man came in and the man in robe shows him a notebook while the lady gets something in the closet. they",
+        "gradients": [
+            6188.406139682625,
+            11872.18437113394,
+            6177.120704909008
+        ],
+        "updates": [
+            3146.716192333093,
+            2189.201258285906,
+            1384.086042882448
+        ]
+    },
+    "34723": {
+        "ctx": "[header] How to reheat leftover pasta without it separating or drying up [title] Boil a pot of water. [step] Pour in enough water to cover the noodles, but don't add them to the pot. Wait until the water comes to a boil.",
+        "gradients": [
+            155004.1114324341,
+            7769.240884416813,
+            5177.521565912975
+        ],
+        "updates": [
+            3405.577647305222,
+            2769.521148902458,
+            986.5552622950054
+        ]
+    },
+    "39022": {
+        "ctx": "[header] How to care for a jack russell [title] Feed your dog a high quality dog food each day. [step] Jack russell terriers need to be fed twice a day. You should not free feed a jack russell, as they're prone to overeating.",
+        "gradients": [
+            17885.068962746067,
+            5178.463072965625,
+            5494.378082309644
+        ],
+        "updates": [
+            3415.63108912413,
+            1769.4148403713189,
+            988.3076427675995
+        ]
+    },
+    "4070": {
+        "ctx": "Snowboarder is in big field in white snow. A cubicle in the mountain and slip down the mountain in snowboard. people",
+        "gradients": [
+            3048.7740868014166,
+            5112.247391960378,
+            7769.713043287884
+        ],
+        "updates": [
+            4049.659041534116,
+            1769.421163025283,
+            597.033009360708
+        ]
+    },
+    "23083": {
+        "ctx": "[header] How to create shaving cream rain clouds [title] Fill a clear, glass container \u00be of the way with cool water. [step] You can use a cup, bowl, vase, or jar, but make sure that it is clear. This will allow you to see the rainstorm later on.",
+        "gradients": [
+            6747.291544115073,
+            4730.533653349609,
+            4653.445832911154
+        ],
+        "updates": [
+            3561.413489417706,
+            2156.1523502921627,
+            1375.5517213171877
+        ]
+    },
+    "36166": {
+        "ctx": "[header] How to clean a camelbak bladder [title] Mix \u00bc cup (59.15 ml) of baking soda with \u00be cup (177 ml) of water per liter volume. [step] The water needs to be hot, but not boiling, as this can damage the bladder. Mix the ingredients until they are well combined.",
+        "gradients": [
+            46104.05287212871,
+            10125.045982243231,
+            11888.662643982456
+        ],
+        "updates": [
+            4041.1770816589556,
+            2592.6535057985125,
+            1201.47169933073
+        ]
+    },
+    "62": {
+        "ctx": "A second woman begins wiping snow off of the car's windshield wipers while talking to the woman in the fur hooded coat. the man",
+        "gradients": [
+            7225.91023165948,
+            4837.931173646044,
+            6612.510722253767
+        ],
+        "updates": [
+            4123.37396333407,
+            2349.8496012768733,
+            594.7290670340819
+        ]
+    },
+    "14826": {
+        "ctx": "[header] How to eat aloe vera [title] Use aloe vera from a supermarket. [step] Not all aloe vera is safe to eat. Aloe vera you grow yourself as a houseplant is not meant to be eaten.",
+        "gradients": [
+            3777.316351432819,
+            4219.483177258039,
+            8150.846498965535
+        ],
+        "updates": [
+            3507.8157204012477,
+            2143.602276597754,
+            398.2162610610194
+        ]
+    },
+    "13339": {
+        "ctx": "Two men are standing outside a swimming pool. one",
+        "gradients": [
+            3855.6491642585893,
+            12930.028491402889,
+            6888.018477213481
+        ],
+        "updates": [
+            3102.991898385808,
+            2387.671743818908,
+            793.2383585948155
+        ]
+    },
+    "5166": {
+        "ctx": "A boy is sitting in front of the camera, then he stands up and joins his team. they",
+        "gradients": [
+            3791.007452894183,
+            3426.2009401055707,
+            6334.8039903584895
+        ],
+        "updates": [
+            3871.513377895637,
+            2520.1710831162304,
+            989.5460906452171
+        ]
+    },
+    "15386": {
+        "ctx": "[header] How to measure golf clubs [title] Place the club on a flat, horizontal surface. [step] Clubs should be measured on a horizontal, rather than vertical, plane to get the most accurate results. [title] Ensure the sole is at a 60 degree angle from the surface.",
+        "gradients": [
+            3550.303408529661,
+            3991.267144334297,
+            5133.886028328704
+        ],
+        "updates": [
+            3301.508948254817,
+            2535.2259243277035,
+            394.28224592445804
+        ]
+    },
+    "10976": {
+        "ctx": "A man is playing golf on a field. he",
+        "gradients": [
+            3391.7001406273384,
+            5558.430550529108,
+            6912.634397992705
+        ],
+        "updates": [
+            3474.238074797083,
+            2155.702888110274,
+            1187.9910496442533
+        ]
+    },
+    "36186": {
+        "ctx": "[header] How to clean fake tanner from white sheets [title] Create a mixture of hot water and biological laundry detergent. [step] It is best to use a bathtub for this as it is large enough to hold the sheets in and won't overflow. Once the bathtub is filled with hot water, add a small cup of biological washing powder and stir well with a large spoon or stirrer to create the cleaning mixture.",
+        "gradients": [
+            6071.102314492275,
+            5197.549569998608,
+            6468.666715141729
+        ],
+        "updates": [
+            3948.0217441456657,
+            1960.3007993744395,
+            990.437649718181
+        ]
+    },
+    "9783": {
+        "ctx": "A man and a woman are standing at the counter of a kitchen. They pour ingredients into a large bowl and mix it together. they",
+        "gradients": [
+            13426.043871032745,
+            2761.4419798561667,
+            7087.1431530273185
+        ],
+        "updates": [
+            3379.386101949972,
+            2683.002921023057,
+            1187.5778672281886
+        ]
+    },
+    "3379": {
+        "ctx": "A camera pans around a group of people standing around each other with one spinning in circles. a man",
+        "gradients": [
+            3169.375508227311,
+            6075.016796340933,
+            9621.218656157462
+        ],
+        "updates": [
+            3667.5264728930315,
+            2371.7729911453207,
+            996.2775225687909
+        ]
+    },
+    "23450": {
+        "ctx": "[header] How to ace a nanny interview [title] Be on time. [step] Nothing will get your interview off to a bad start faster than arriving late. Ideally, you should try to arrive 10-15 minutes early.",
+        "gradients": [
+            18862.504726807416,
+            4436.239646194968,
+            5972.0330930881855
+        ],
+        "updates": [
+            4013.619849077411,
+            1095.8045874634183,
+            198.20678210271214
+        ]
+    },
+    "8324": {
+        "ctx": "Several shots of kids smoking are shown as well as city areas, and followed by a man wearing glasses speaking to the camera. more pictures",
+        "gradients": [
+            5497.998895277975,
+            5637.030783123704,
+            7036.683468110282
+        ],
+        "updates": [
+            2951.6235857893575,
+            2158.1488606561325,
+            397.04556075871363
+        ]
+    },
+    "6261": {
+        "ctx": "A large group of people are standing on a bridge. they",
+        "gradients": [
+            7182.24923636932,
+            3560.0188158306437,
+            5730.146637690041
+        ],
+        "updates": [
+            4108.754743702473,
+            2713.494249810908,
+            1380.4309764961463
+        ]
+    },
+    "36025": {
+        "ctx": "[header] How to ease hip pain [title] Get a diagnosis before anything else. [step] It is really important to know what is causing your pain. See a doctor before you start doing any exercises or taking any medication.",
+        "gradients": [
+            4706.3873393578015,
+            3188.4070125923977,
+            11101.490972885873
+        ],
+        "updates": [
+            2531.4364501139125,
+            1934.4308319932913,
+            800.3570130638784
+        ]
+    },
+    "26103": {
+        "ctx": "[header] How to run for mayor [title] Become involved in community initiatives. [step] As mayor, you'll be involved in numerous aspects of the local community. You can get a head-start in local politics and government by becoming involved in community initiatives.",
+        "gradients": [
+            4097.855978741098,
+            3801.4800949825244,
+            5432.047133313554
+        ],
+        "updates": [
+            3116.153179828667,
+            1757.6479180134484,
+            592.6648464752103
+        ]
+    },
+    "32707": {
+        "ctx": "[header] How to get rid of dry skin under your nose [title] Wash your face with warm water and gentle skin cleanser. [step] The first step in caring for dry skin under the nose is to clean the area to remove any dirt and loose, dead skin. Dry, scaly skin can easily lead to open wounds and cause bacterial infection, so keeping the area clean is important.",
+        "gradients": [
+            8400.431398740948,
+            4291.461801884938,
+            5306.95760819172
+        ],
+        "updates": [
+            3783.0392142478377,
+            2536.8243238601135,
+            1378.5157817645331
+        ]
+    },
+    "3938": {
+        "ctx": "A close up of a hand is seen that pans out to a man putting gloves on. the man",
+        "gradients": [
+            3595.0021419628465,
+            3818.4519429402194,
+            5441.074886863987
+        ],
+        "updates": [
+            3496.441791846904,
+            2535.55247812214,
+            788.5805340960308
+        ]
+    },
+    "33377": {
+        "ctx": "[header] How to start a cafe [title] Write a business plan. [step] No matter what type of small business you intend to open, a written detailed business plan is an essential first step in the process. A good business plan analyzes your business, its market, and its plan going forward for several years.",
+        "gradients": [
+            5328.082858697007,
+            4053.7459592812393,
+            5762.355674477188
+        ],
+        "updates": [
+            3541.881026083916,
+            1760.66641673342,
+            592.9412543395628
+        ]
+    },
+    "7650": {
+        "ctx": "A woman watches girls practice in a gym. the girls",
+        "gradients": [
+            7610.595742707398,
+            5976.169348860719,
+            7742.3280098385885
+        ],
+        "updates": [
+            3758.3352136099247,
+            2166.62868683576,
+            596.3887980327453
+        ]
+    },
+    "25128": {
+        "ctx": "[header] How to turn your hand into a rubber band gun [title] Turn your hand into the shape of a gun. [step] Make a fist with your hand. Release your index finger so that it points straight out.",
+        "gradients": [
+            2906.169237083929,
+            5029.427829661467,
+            7379.049646068456
+        ],
+        "updates": [
+            3070.6768380219582,
+            1956.7331312247186,
+            1386.6345743291122
+        ]
+    },
+    "30986": {
+        "ctx": "[header] How to connect coaxial cable connectors [title] Determine your cable size. [step] Cable terminology can be confusing. Look on the side of your coaxial wire for the size designation.",
+        "gradients": [
+            12016.767491881577,
+            6161.865402021729,
+            5469.2260904233
+        ],
+        "updates": [
+            3190.9178189765225,
+            2173.8406403891313,
+            546.5618290959765
+        ]
+    },
+    "5134": {
+        "ctx": "One person in particular comes down the slope holding a child in front of them before finally letting them go. the young child",
+        "gradients": [
+            3733.288665770523,
+            5691.991477384814,
+            6473.6572634703625
+        ],
+        "updates": [
+            3305.0410644244985,
+            2366.021373833311,
+            1384.6615377013222
+        ]
+    },
+    "22400": {
+        "ctx": "[header] How to help treat panic anxiety disorder [title] Decide whether or not you have the disease first. [step] Panic anxiety disorder is a mental condition whereby a patient experiences panic attacks continually. If you frequently feel fearful about things that you cannot control, you may have this disease.",
+        "gradients": [
+            3134.475402551241,
+            7941.357431165515,
+            13274.972210020307
+        ],
+        "updates": [
+            2185.7220140846894,
+            2570.494205290826,
+            1200.955730418209
+        ]
+    },
+    "31839": {
+        "ctx": "[header] How to critique poetry [title] Look at the form of the poem. [step] Before you begin reading, you should first take a moment to examine how it looks. You can learn a lot about the poem's organization before even beginning to read.",
+        "gradients": [
+            3484.874828212546,
+            6408.02991223184,
+            30625.104481207058
+        ],
+        "updates": [
+            3873.547099537973,
+            2360.790940091505,
+            403.03465833507653
+        ]
+    },
+    "23808": {
+        "ctx": "[header] How to select a property tax attorney [title] Make a list of local tax attorneys. [step] Search online for tax attorneys, by typing in \" tax attorney \" and then your state. If you live in alabama, for example, you would type \" tax attorneys in alabama.",
+        "gradients": [
+            20498.329977801524,
+            10622.302875502572,
+            6573.2177305457835
+        ],
+        "updates": [
+            4219.00819078018,
+            2780.4974263891704,
+            595.0585924666701
+        ]
+    },
+    "19259": {
+        "ctx": "[header] How to make a school lunch [title] Pack sandwiches or wraps. [step] A school lunch should include every food group and sandwiches and wraps are a perfect way to get started. Branch out from plain peanut butter and jelly sandwiches and use healthier ingredients like meat, cheese, and vegetables.",
+        "gradients": [
+            5217.179718345437,
+            5811.493977603159,
+            6604.641280816956
+        ],
+        "updates": [
+            3538.438995338811,
+            1773.2743266784635,
+            396.7010496558887
+        ]
+    },
+    "21555": {
+        "ctx": "[header] How to roll sod [title] Rent or purchase a lawn roller from a home supply store. [step] You can rent lawn rollers by the hour, day, or week. They cost about $18 (\u00a3 12) a day or $72 (\u00a3 51) a week.",
+        "gradients": [
+            9258.474970393345,
+            3773.0934112936875,
+            5302.6645232437895
+        ],
+        "updates": [
+            3582.3706976892945,
+            1950.3977543940343,
+            1184.2810223481047
+        ]
+    },
+    "22920": {
+        "ctx": "[header] How to tell your girlfriend you have an std [title] Learn the facts. [step] Once you know what std you have, learn what you can about it. That way, you can be prepared for any questions your girlfriend may have.",
+        "gradients": [
+            5010.301753556422,
+            7757.7158426332035,
+            7387.630770341239
+        ],
+        "updates": [
+            3930.2216437604543,
+            1986.4644206571318,
+            795.3579032659181
+        ]
+    },
+    "17504": {
+        "ctx": "[header] How to help your guinea pig adjust to you [title] When you first bring them home, don't rush anything. [step] Make sure the cage of your new guinea pig is in a place that at least a few people go into several times a day. Sit near the cage and talk.",
+        "gradients": [
+            4577.911328405343,
+            4277.884219940842,
+            6347.113471198295
+        ],
+        "updates": [
+            3728.40358191228,
+            2356.217426705974,
+            1189.8456972293855
+        ]
+    },
+    "31217": {
+        "ctx": "[header] How to apply tooth gems [title] Purchase a tooth gem kit. [step] There are a number of companies and websites that sell kits for applying your own tooth gems. You can choose from the available kits based on the types of gems you want.",
+        "gradients": [
+            4765.930104204032,
+            4179.537631903632,
+            5796.337590256734
+        ],
+        "updates": [
+            3537.8342684954405,
+            1763.3286742790951,
+            707.861721464117
+        ]
+    },
+    "34071": {
+        "ctx": "[header] How to level a trailer [title] Extend any landing gear that is built into the design of the trailer. [step] In most cases, the landing gear is operated with a simple hand crank. Making sure the gear is touching the ground before attempting to make any adjustments will add some stability to the trailer and provide a better idea if any adjustments are needed at all.",
+        "gradients": [
+            5146.328381779102,
+            3091.8630525191093,
+            4969.832360637318
+        ],
+        "updates": [
+            2326.6187936196507,
+            2708.0530213190805,
+            985.0801049933361
+        ]
+    },
+    "33855": {
+        "ctx": "[header] How to set up a wiccan samhain altar [title] Get some ornaments like candles, small pumpkins, spiderwebs, etc. [step] Halloween shops are a great place to look for some scary stuff to decorate your altar. [title] Get an altar cloth.",
+        "gradients": [
+            13828.071483103606,
+            8597.650977592219,
+            4887.25166857057
+        ],
+        "updates": [
+            3199.720094190794,
+            2766.888427853853,
+            1182.3701769155516
+        ]
+    },
+    "30264": {
+        "ctx": "[header] How to travel from bangkok to pattaya [title] Use this popular option if you want a cheap, clean, and fast trip. [step] Generally, a bus ride takes about 2 hours to get from bangkok to pattaya. Most of the buses are clean, in good shape, and air-conditioned, so the trip should be fairly comfortable.",
+        "gradients": [
+            8934.643766018797,
+            5570.024083705191,
+            5209.74360998133
+        ],
+        "updates": [
+            3164.1423599050026,
+            1575.1142264933515,
+            1380.6521553461207
+        ]
+    },
+    "28301": {
+        "ctx": "[header] How to make vegetable stock [title] Wash and chop the vegetables. [step] Wash 2 to 3 carrots , 3 to 4 stalks of celery, and get out 1 to 2 onions. Use a sharp knife to carefully chop the vegetables into large chunks.",
+        "gradients": [
+            5534.759983905965,
+            2977.4409987896306,
+            6406.324265788784
+        ],
+        "updates": [
+            4100.541167060201,
+            2313.5094159546275,
+            396.7503135257084
+        ]
+    },
+    "15531": {
+        "ctx": "[header] How to stop a dog from pulling on its leash [title] Use a proper collar. [step] Be sure that your dog has a comfortable collar that fits it properly. The collar shouldn't be so tight that it is choking the dog, but should be tight enough so that it does not slide up and down the dog's neck.",
+        "gradients": [
+            40770.804473170836,
+            2858.796724429895,
+            10607.474551933901
+        ],
+        "updates": [
+            4047.584576347828,
+            2499.7002623758794,
+            996.717070609793
+        ]
+    },
+    "32450": {
+        "ctx": "[header] How to retrieve an impounded car [title] Figure out why it was impounded. [step] Before you can get your car back, you need to know why it was impounded. In some cases, if someone else was driving your car at the time, you may not be aware of the reason at first, but you (as the owner) are probably still responsible.",
+        "gradients": [
+            21264.972552502506,
+            3366.5528220185624,
+            12731.444767906964
+        ],
+        "updates": [
+            3422.0837041642517,
+            1941.7994980595174,
+            601.2576552229875
+        ]
+    },
+    "18923": {
+        "ctx": "[header] How to calculate child support in california [title] Determine who has to pay child support. [step] If you are married to the other parent, you both will be responsible for your child's financial support. However, if you are not married to the other parent, child support will depend on your (and the other parent's) income and parenting time.",
+        "gradients": [
+            3459.607913652017,
+            4069.2393735485693,
+            6385.9152575921125
+        ],
+        "updates": [
+            3691.4720026116183,
+            1759.8573867973862,
+            991.4047891922389
+        ]
+    },
+    "38374": {
+        "ctx": "[header] How to cook in a college dorm [title] Find out about cooking facilities in your dorm. [step] If there's a stove, it's most likely to be electric. There usually are also microwaves for public use.",
+        "gradients": [
+            2834.3947962507054,
+            3418.106553142005,
+            5657.101258098639
+        ],
+        "updates": [
+            3271.1344513954245,
+            1942.850175432193,
+            1185.6221005120094
+        ]
+    },
+    "9718": {
+        "ctx": "An athletic man is seen running down a long track and throwing a javelin off into the distance with others measuring his throw. the man",
+        "gradients": [
+            4237.269780316617,
+            6739.113410533166,
+            6616.466373401054
+        ],
+        "updates": [
+            4099.4945668602595,
+            1783.2617469730658,
+            595.2712459955137
+        ]
+    },
+    "14376": {
+        "ctx": "We see the doctor put the contact in the for the lady. The lady wipes her hands on a towel near a sink. we",
+        "gradients": [
+            7484.950678317747,
+            4584.219517663826,
+            44261.44788471811
+        ],
+        "updates": [
+            3941.615043933663,
+            2545.436707560497,
+            605.7190220683406
+        ]
+    },
+    "23701": {
+        "ctx": "[header] How to stop a dog chase from becoming an attack [title] Stand still and stay calm. [step] If a dog is chasing you, standing still is probably the last thing you think you should do. You may feel like you're now an easy target for the dog.",
+        "gradients": [
+            5657.407553429533,
+            3890.995338968347,
+            6570.14446093829
+        ],
+        "updates": [
+            3550.328893117104,
+            2139.2009278664896,
+            1388.2776925206108
+        ]
+    },
+    "34911": {
+        "ctx": "[header] How to test spark plug wires [title] Check for symptoms. [step] Defective spark plug wire leave tell-tale signs of their deterioration, including : [substeps] An erratic idle engine misfire radio interference decreased fuel mileage failed emissions tests due to elevated hydrocarbon emissions or a fault code indicating cylinder misfire. Check engine light [title] Inspect the wires.",
+        "gradients": [
+            8856.426215616382,
+            5620.699307377948,
+            5409.0389492941495
+        ],
+        "updates": [
+            3384.316516758768,
+            2539.366405088625,
+            987.8468727352447
+        ]
+    },
+    "28292": {
+        "ctx": "[header] How to clean faux wood blinds [title] Dust once a week with a feather duster or microfiber cloth. [step] For routine dusting, start by closing the blinds completely. Run a feather duster or dry microfiber cloth over each slat, starting at the top corner and working your way down to the bottom slat.",
+        "gradients": [
+            8293.171146637053,
+            4900.643409229218,
+            8741.226625853422
+        ],
+        "updates": [
+            3964.6489850290263,
+            2147.833056404663,
+            843.0820810896369
+        ]
+    },
+    "31796": {
+        "ctx": "[header] How to date a taurus [title] Dress up for dates. [step] Taurus's enjoy dressing up and love their dates to dress with class. When going out with a taurus, put a little effort into your appearance.",
+        "gradients": [
+            5550.910956036053,
+            4337.863332144297,
+            6201.483047322778
+        ],
+        "updates": [
+            3340.4656516846258,
+            2350.9939733490023,
+            138.74208559253668
+        ]
+    },
+    "37889": {
+        "ctx": "[header] How to add a mac to a homegroup [title] Enable file sharing on your windows computer. [step] It is not possible to directly add a mac computer to your windows homegroup. Instead, you'll be sharing specific folders with the mac.",
+        "gradients": [
+            4527.21946282634,
+            12243.302856517708,
+            5416.187858041258
+        ],
+        "updates": [
+            3128.557067833157,
+            2780.955100916595,
+            786.3019024531568
+        ]
+    },
+    "28483": {
+        "ctx": "[header] How to draw blood from an adult fish [title] Place the fish in the holding tank. [title] Wait until the fish loses balance and swims abnormally. [title] Squeeze the peduncle of the fish gently and observe the response.",
+        "gradients": [
+            5096.943790625894,
+            3878.434017577961,
+            7425.302475547213
+        ],
+        "updates": [
+            3542.568045468428,
+            1947.6534454428488,
+            281.57709780689544
+        ]
+    },
+    "14292": {
+        "ctx": "A fast motion video shows a picture on a pumpkin and leads into a person cutting open a pumpkin. the persons",
+        "gradients": [
+            3427.5254731912887,
+            5126.245544465981,
+            15392.109304195108
+        ],
+        "updates": [
+            3100.686719782359,
+            1962.5753764561377,
+            1202.3770566688036
+        ]
+    },
+    "7296": {
+        "ctx": "Several food items and dishes are laid out on a table. Meat product and other items are used to create a sandwich. then a bento shaper",
+        "gradients": [
+            3172.992906436263,
+            5588.068547121431,
+            6888.629143960641
+        ],
+        "updates": [
+            2374.1880404487733,
+            1771.463107727439,
+            595.0368814544345
+        ]
+    },
+    "26221": {
+        "ctx": "[header] How to improve your imagination [title] Turn off the tv. [step] This is the first step to finding hobbies that enrich your imagination. Watching television programs is a form of passive engagement.",
+        "gradients": [
+            17412.490281110375,
+            30405.885801285167,
+            26331.39765360789
+        ],
+        "updates": [
+            3368.740269141097,
+            1424.2947192956233,
+            400.0085634387043
+        ]
+    },
+    "26802": {
+        "ctx": "[header] How to can peas [title] Prepare the peas for canning. [step] Select ripe, bright green peas with young, tender, sweet seeds. Shell and wash the peas under cool running water, and discard or compost the pods.",
+        "gradients": [
+            4020.385420760432,
+            10826.625155977232,
+            5357.448379384622
+        ],
+        "updates": [
+            2929.758085459325,
+            1796.5607337376966,
+            789.2575558889548
+        ]
+    },
+    "5861": {
+        "ctx": "Men ride horses out of a gates and ropes a bull before dismounting and tying their its legs. the winner",
+        "gradients": [
+            6944.457490023133,
+            5352.16236875226,
+            13369.742029280696
+        ],
+        "updates": [
+            3755.5309255398615,
+            1770.7897736522718,
+            1001.7899989872187
+        ]
+    },
+    "20663": {
+        "ctx": "[header] How to lower your mortgage interest rate [title] Choose a time period with lower interest rates. [step] Watch the market to see how the interest rates are going up and down. When the market reaches rates that are lower than what you're paying, that's a good time to refinance.",
+        "gradients": [
+            4077.9566882680406,
+            4631.62870380153,
+            12982.38600329942
+        ],
+        "updates": [
+            2058.9367177162676,
+            2533.825602322555,
+            400.400638406034
+        ]
+    },
+    "16468": {
+        "ctx": "[header] How to make a roasted peach dessert [title] Thaw frozen puff pastry for an hour. [step] Once thawed, cut into 2x2 inch squares, wash eggs and sprinkle granulated sugar. Bake in a pre-heated 400 \u00b0 f (204 \u00b0 c) oven for 30-40 minutes until golden brown.",
+        "gradients": [
+            8091.630196402671,
+            5169.4818618052495,
+            5613.363458263111
+        ],
+        "updates": [
+            3573.218063000087,
+            2545.1310895679053,
+            1184.9739055376976
+        ]
+    },
+    "30862": {
+        "ctx": "[header] How to study for the pcat [title] Sign up for a test. [step] The pcat is usually offered at four different times of year. January, july, and september are the most common months to take the test.",
+        "gradients": [
+            4127.028012334207,
+            2963.138575755276,
+            16243.943275442816
+        ],
+        "updates": [
+            2935.557580335975,
+            2697.771870293189,
+            1403.3780976687738
+        ]
+    },
+    "39899": {
+        "ctx": "[header] How to use lastpass [title] Install lastpass. [step] Lastpass is available for almost all browsers and operating system. To quickly find your version of lastpass google \" lastpass [browser/os name] \".",
+        "gradients": [
+            7124.201183685003,
+            7830.381405881424,
+            5392.212672805108
+        ],
+        "updates": [
+            3567.8505816613997,
+            2187.5476090543125,
+            789.171487604719
+        ]
+    },
+    "12311": {
+        "ctx": "The boy then approached the bars and does a series of swings and hand stand in the air. while he",
+        "gradients": [
+            8238.373628242274,
+            4781.253310678255,
+            7182.016061146726
+        ],
+        "updates": [
+            4161.597449923454,
+            2744.153571593611,
+            992.8628715118256
+        ]
+    },
+    "36502": {
+        "ctx": "[header] How to count cells with text in excel on pc or mac [title] Open the excel file you want to edit on your computer. [step] You can open microsoft excel and find your file on the saved spreadsheets list, or just double-click the file to open it. [title] Click an empty cell.",
+        "gradients": [
+            14886.465768332777,
+            5477.626374412233,
+            9793.55044955203
+        ],
+        "updates": [
+            4011.5125784784937,
+            1577.5425088836928,
+            1397.8211077540182
+        ]
+    },
+    "11195": {
+        "ctx": "Then, the bartender takes a cup and prepares a cocktail in a shaker, then he pours it in the cup. after",
+        "gradients": [
+            3872.364058524465,
+            5437.3105033663,
+            6993.504241689702
+        ],
+        "updates": [
+            3112.17545002071,
+            2154.0914215348434,
+            1387.225089816784
+        ]
+    },
+    "33916": {
+        "ctx": "[header] How to persuade your parents to let you publish stories on wattpad [title] Be in your calm zone before seeking to persuade your parents. [step] Keep in mind that you do not want to end up arguing, you just want to agree on a situation, and to convince them that being a part of wattpad is a good idea. [title] Show them the site.",
+        "gradients": [
+            3111.652520414432,
+            3778.5317472017678,
+            12153.042799220644
+        ],
+        "updates": [
+            4055.832469232847,
+            2536.9410925243533,
+            1000.4035803221632
+        ]
+    },
+    "37943": {
+        "ctx": "[header] How to enlist in the united states air force [title] Consider your options carefully. [step] Not everyone is cut out for the responsibilities of active serve. However, if you can join, the air force offers a variety of benefits, including technical training.",
+        "gradients": [
+            6674.922061880173,
+            4888.610711546299,
+            7143.8842547797485
+        ],
+        "updates": [
+            3562.7920839953795,
+            1771.2840154910332,
+            594.6916260337894
+        ]
+    },
+    "32841": {
+        "ctx": "[header] How to send money to mexico [title] Ask the recipient how soon they'll need it. [step] Some types of transfers will take longer than other types of transfers. Make sure the person you're sending the money to doesn't need it sooner than your chosen method of transfer will allow.",
+        "gradients": [
+            8569.901736931926,
+            9966.478453228994,
+            7383.290932123191
+        ],
+        "updates": [
+            3775.279269270017,
+            1996.019309492316,
+            397.982657039196
+        ]
+    },
+    "8445": {
+        "ctx": "We see a white information screen and the object is attached to a sink. A girl washes her hands. we",
+        "gradients": [
+            4710.96205841434,
+            16288.386020260756,
+            6653.052550712849
+        ],
+        "updates": [
+            3324.105350494104,
+            2406.9814700217685,
+            594.2920120409317
+        ]
+    },
+    "31964": {
+        "ctx": "[header] How to compliment girls [title] Evaluate what the girl values in herself. [step] The first thing you'll want to do is think about the girl and what you know she values in herself. Girls are conditioned to shy away from compliments and she'll be much more open to accepting a compliment she agrees with.",
+        "gradients": [
+            3453.273535507965,
+            3493.117309358527,
+            5627.491243149455
+        ],
+        "updates": [
+            4078.4803250652585,
+            1942.449800313181,
+            197.755327749117
+        ]
+    },
+    "29880": {
+        "ctx": "[header] How to record on an ipod for free [title] Open voice memos. [step] Voice memos is an app that will come pre-loaded on your ipod. Find it under utilities.",
+        "gradients": [
+            7421.420003976761,
+            4616.842985000835,
+            6726.322796413393
+        ],
+        "updates": [
+            3948.7809213580267,
+            2357.51077003371,
+            397.00072579489824
+        ]
+    },
+    "33747": {
+        "ctx": "[header] How to make a personal birthday card with an envelope [title] Look around for some ideas. [step] Try to find some inspiration for your birthday card. There's a big chance you will find books about arts and craft in your local library.",
+        "gradients": [
+            3161.797976637824,
+            3683.6293421386194,
+            6715.009203240433
+        ],
+        "updates": [
+            3863.506653782425,
+            2138.5914542338032,
+            1190.0236325894366
+        ]
+    },
+    "35486": {
+        "ctx": "[header] How to learn without forgetting [title] Approach studying in a positive manner. [step] If you crack open the books while in a bad mood about having to study, you won't have an effective study session. However, if you are motivated about what you are about to learn, you will have an easier time learning it and remembering it come test time.",
+        "gradients": [
+            3849.795962925822,
+            8204.839059104339,
+            5580.878982025284
+        ],
+        "updates": [
+            4093.734246707172,
+            2377.8572998773307,
+            1185.453235492023
+        ]
+    },
+    "37802": {
+        "ctx": "[header] How to remove double sided tape [title] Remove stubborn, stuck-on tape with a hairdryer. [step] Plug your hairdryer into the nearest power outlet and turn it on to a medium or high setting. Hold the hairdryer a few inches away from the tape and let the hot air blow over it, focusing on the edges and corners.",
+        "gradients": [
+            3997.3454061865673,
+            8011.586513235524,
+            11087.902447160079
+        ],
+        "updates": [
+            4094.055029287698,
+            2377.6902580198703,
+            1197.6090363783658
+        ]
+    },
+    "1622": {
+        "ctx": "Two wildebeests lock horns in a fight for dominance. the fight",
+        "gradients": [
+            6385.205636331939,
+            7561.828465970992,
+            9191.029806546016
+        ],
+        "updates": [
+            3728.234749500015,
+            2570.4971084434324,
+            598.4406647604692
+        ]
+    },
+    "11183": {
+        "ctx": "A group of athletes play beach soccer in several different games and locations surrounded by audiences in bleachers and dancing cheerleaders. a group of soccer players",
+        "gradients": [
+            3410.2208396318165,
+            5060.7389618096395,
+            6961.3972745208175
+        ],
+        "updates": [
+            3292.393367926299,
+            1571.0148121125528,
+            595.340092265862
+        ]
+    },
+    "27384": {
+        "ctx": "[header] How to make a fence gate [title] Measure the desired width of your gate. [step] If you do not have an existing fence to attach the gate to, you will need to build one, as fence posts are necessary for installing a fence. [title] Mark the spot where the gate fence posts will go into the ground.",
+        "gradients": [
+            4514.775875224263,
+            3449.1246452143264,
+            18230.981724606998
+        ],
+        "updates": [
+            3719.763735025339,
+            1938.0473672443954,
+            399.8264745345514
+        ]
+    },
+    "8474": {
+        "ctx": "Someone is seen peeling the outside of a pumpkin. they",
+        "gradients": [
+            4323.167658718189,
+            3908.171237965163,
+            6422.401360917404
+        ],
+        "updates": [
+            3495.261829838506,
+            1868.354600675786,
+            791.8361632463238
+        ]
+    },
+    "37331": {
+        "ctx": "[header] How to respond to someone body shaming another person [title] Identify body shaming. [step] If you hear people gossiping about someone's who's not there, nip the talk in the bud. They're not there to defend themselves, and you are.",
+        "gradients": [
+            7453.723193040465,
+            3693.332708725183,
+            4916.444581020878
+        ],
+        "updates": [
+            4162.180712631208,
+            2140.3842223802676,
+            788.481306677946
+        ]
+    },
+    "11897": {
+        "ctx": "Guys are playing hockey on an ice arena. Some players are laid out. a pile of players",
+        "gradients": [
+            3268.407721321269,
+            4125.3820568706515,
+            6503.871050062149
+        ],
+        "updates": [
+            3860.145287322622,
+            2734.627176477377,
+            396.34894612045355
+        ]
+    },
+    "36809": {
+        "ctx": "[header] How to downgrade your avg subscription on windows [title] Turn on your computer. [step] Press the power button on your computer to turn it on. [substeps] The location of the power button will depend on your pc.",
+        "gradients": [
+            9230.239386187735,
+            11930.698635510757,
+            4986.363483401667
+        ],
+        "updates": [
+            3790.954007346888,
+            1987.2707502201881,
+            984.7808813264672
+        ]
+    },
+    "24545": {
+        "ctx": "[header] How to introduce a new dog to your senior dog [title] Keep your senior dog visually separate from your new dog. [step] Place their cages at opposite ends of the house and keep them entirely separate for the first few days. During this period, you should take measures to make sure your senior dog does not see the new dog.",
+        "gradients": [
+            4160.526266405899,
+            3329.665484192007,
+            8516.020820123404
+        ],
+        "updates": [
+            3716.623824211685,
+            2122.415562074776,
+            1393.9224141811533
+        ]
+    },
+    "29332": {
+        "ctx": "[header] How to accept that you need to lose weight [title] Check in with yourself physically. [step] When evaluating if you need to lose weight, start by asking yourself if your current weight hinders your daily activities. Ask yourself if your size makes it difficult to perform basic functions such as going up and down stairs or fitting comfortably into spaces like an airplane seat.",
+        "gradients": [
+            7352.83536145364,
+            8881.275650280162,
+            6515.545089392404
+        ],
+        "updates": [
+            3370.3444323654985,
+            2787.4236962359864,
+            1388.6912122453102
+        ]
+    },
+    "1546": {
+        "ctx": "He does the long jump, then immediately hops up and runs back, cheering and celebrating with the crowd. He beats his chest and hugs people. he",
+        "gradients": [
+            5220.923536039123,
+            4320.282136408686,
+            7339.825591165986
+        ],
+        "updates": [
+            3126.8571025493584,
+            2347.2635052062246,
+            596.0211938664434
+        ]
+    },
+    "34211": {
+        "ctx": "[header] How to make iron oxide [title] Locate a source of iron (iii) (iron in the 3 + oxidation state). [step] An iron (iii) salt such as ferric chloride will be easy to add to the solution. It is often used for etching copper, so you can buy it online, at a chemical supply store, and sometimes even an electronics store.",
+        "gradients": [
+            24970.302655877786,
+            4020.720842260178,
+            6419.759199150232
+        ],
+        "updates": [
+            2960.7302712725345,
+            1742.1519541659777,
+            395.92016202732805
+        ]
+    },
+    "5412": {
+        "ctx": "A woman is seen speaking to the camera while holding an accordion and and moving her hands around. she",
+        "gradients": [
+            4064.6354206575775,
+            4747.127951975446,
+            5469.766910497217
+        ],
+        "updates": [
+            3493.168186804825,
+            2718.355818556098,
+            1182.3414971425152
+        ]
+    },
+    "978": {
+        "ctx": "A brunette woman wearing all black is standing in a bar talking, she picks up a clear drinking glass, puts ice in it and touches all the ingredients she's going to use while talking about them. the woman",
+        "gradients": [
+            18077.13670969013,
+            11932.188812761737,
+            4403.116944693313
+        ],
+        "updates": [
+            3810.196933469343,
+            2798.952848902241,
+            1371.9644706063264
+        ]
+    },
+    "3677": {
+        "ctx": "Text states the video will show how to chalk paint. An armoire is shown, and a woman is holding one of the drawers. she",
+        "gradients": [
+            4051.4410948391483,
+            13179.719986145483,
+            6453.848934829873
+        ],
+        "updates": [
+            3692.2203714868265,
+            2397.1139054125083,
+            420.47193594680664
+        ]
+    },
+    "38275": {
+        "ctx": "[header] How to ask for a letter of recommendation through email [title] Confirm the application requirements. [step] If you're going to ask for a letter of recommendation, you need to double check where it's going. Since letters are often expected to be kept confidential, the recipient of your request will need to know where to send the letter of recommendation; the last thing you want is to give them incorrect information.",
+        "gradients": [
+            4617.461236527888,
+            4289.53190564239,
+            4498.743944397812
+        ],
+        "updates": [
+            3129.1477622081875,
+            2141.3710712168763,
+            784.9411409321219
+        ]
+    },
+    "27764": {
+        "ctx": "[header] How to develop an ethical trading policy for your small business [title] Understand the purpose of an ethical trading policy. [step] It is about being prepared to look beyond economic objectives to consider the wider implications of your business decisions. From an international perspective, it is becoming increasingly more important, so if you're trading overseas (importing and/or exporting), it's important to bear this in mind.",
+        "gradients": [
+            5480.711515119976,
+            3425.1659936128553,
+            5106.23731895719
+        ],
+        "updates": [
+            3342.022764345234,
+            1432.9934492166403,
+            394.6034140530953
+        ]
+    },
+    "10237": {
+        "ctx": "A man is shown at a bar. He is then talking to a camera. he",
+        "gradients": [
+            10187.85018933238,
+            10350.76519512878,
+            7662.868277242718
+        ],
+        "updates": [
+            4135.1475814874875,
+            1276.4488451006093,
+            993.1214073292948
+        ]
+    },
+    "31981": {
+        "ctx": "[header] How to overcome adversity [title] Define and prioritize problems. [step] When experiencing adversity, you can easily become distracted with minor setbacks and disappointments. These can quickly add up and become overwhelming.",
+        "gradients": [
+            4011.3633589181286,
+            10756.554214060749,
+            9086.555447266655
+        ],
+        "updates": [
+            3106.018489327871,
+            1726.5900603540772,
+            795.9334174667746
+        ]
+    },
+    "36805": {
+        "ctx": "[header] How to use water exercises for back pain [title] Use water shoes. [step] If you have balance issues, using water shoes can help. You can find them at most large shoe stores or sporting good stores.",
+        "gradients": [
+            6504.8662178292125,
+            3093.2789954987015,
+            4991.202630875202
+        ],
+        "updates": [
+            4126.781412803739,
+            2692.1375807375207,
+            788.1364801627242
+        ]
+    },
+    "13492": {
+        "ctx": "Woman is standing in a room talking to the camera unscrewling an outlet. The woman is taking out a wallpaper with a spatula. the woman",
+        "gradients": [
+            9620.826939815199,
+            3947.6232152166676,
+            6485.034151010795
+        ],
+        "updates": [
+            4157.525533428302,
+            1945.7704023597776,
+            792.1432248528434
+        ]
+    },
+    "5487": {
+        "ctx": "A man is seen kneeling on the ground holding carpet into his hands. the man",
+        "gradients": [
+            4885.676079987573,
+            4868.875148862381,
+            10968.754295873277
+        ],
+        "updates": [
+            3121.909632513008,
+            2350.2756897900836,
+            199.73665570892626
+        ]
+    },
+    "39706": {
+        "ctx": "[header] How to find a sex therapist [title] Find a credentialed sex therapist. [step] Almost anyone can call themselves a sex therapist, so make sure you're going to someone who has the background and education to adequately meet your needs. Stay away from anyone who says they treat people with various diagnoses; you want a specialist for couples in sex therapy.",
+        "gradients": [
+            7753.472003616249,
+            4752.959147211637,
+            6169.474500828577
+        ],
+        "updates": [
+            3769.5050779732737,
+            1763.7346285153471,
+            968.8151436177241
+        ]
+    },
+    "29269": {
+        "ctx": "[header] How to cope when cancer changes your appearance [title] Wear a wig. [step] The effects of chemotherapy cause a variety of negative physical symptoms, including hair loss. To cope with this drastic physical change, some people with cancer choose to wear wigs.",
+        "gradients": [
+            7912.70115645104,
+            4988.567958017885,
+            11994.145926415109
+        ],
+        "updates": [
+            3365.524079669919,
+            2741.033876821842,
+            1400.4596109684016
+        ]
+    },
+    "22393": {
+        "ctx": "[header] How to upgrade ikea furniture [title] Paint it if you want to change the color. [step] Ikea offers their products in a decent selection of colors, but if it's not exactly what you want, it just won't do. Paint over clashing or lifeless shades on solid items for a piece that's totally your own.",
+        "gradients": [
+            26796.102934328257,
+            3281.633100591775,
+            5001.083451782105
+        ],
+        "updates": [
+            4238.015719091985,
+            2523.2594832786085,
+            788.8454177324019
+        ]
+    },
+    "20133": {
+        "ctx": "[header] How to plant a sun lover [title] Choose an outdoor spot that gets full sun. [step] Sun lovers thrive with a lot of sunlight. It helps make their colors more vibrant.",
+        "gradients": [
+            3239.6221867027843,
+            5296.044219687758,
+            5004.4782764938
+        ],
+        "updates": [
+            3872.113070288396,
+            1967.195231069869,
+            985.3478580434028
+        ]
+    },
+    "1181": {
+        "ctx": "A person moves a tire towards the gate. The gates close in their lanes. people",
+        "gradients": [
+            2745.775778457194,
+            4396.506209706967,
+            7358.062349967612
+        ],
+        "updates": [
+            3822.3838499958883,
+            1760.1047990651828,
+            397.34692040158006
+        ]
+    },
+    "37874": {
+        "ctx": "[header] How to look cool on myspace [title] Change your name to something short and cool. [step] Examples for girls: vee, bea, jeci, petta, nico, viva, ivy. Examples for boys: mort, slate, tum, joe, pikey.",
+        "gradients": [
+            4500.8778015405815,
+            6491.642555891429,
+            5946.001940915158
+        ],
+        "updates": [
+            3133.829325502571,
+            1782.4294962151953,
+            792.4458620838559
+        ]
+    }
+}
