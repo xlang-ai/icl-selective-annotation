@@ -52,7 +52,7 @@ conda activate selective_annotation
 ```
 
 ### End-to-end pipeline: selection, inference, evaluation
-GPT-J as in-context learning model (1 GPU, 40GB memory)
+GPT-J as the in-context learning model, DBpedia as the task, and vote-k as the selective annotation method (1 GPU, 40GB memory)
 ```
 python main.py --task_name dbpedia_14 --selective_annotation_method votek --model_cache_dir models --data_cache_dir datasets --output_dir outputs
 ```
@@ -61,9 +61,9 @@ python main.py --task_name dbpedia_14 --selective_annotation_method votek --mode
 If you find our work helpful, please cite us
 ```
 @article{Selective_Annotation,
-      title={Selective Annotation: Makes Language Models Better Few-Shot Learners}, 
+      title={Selective Annotation Makes Language Models Better Few-Shot Learners}, 
       author={Hongjin Su, Jungo Kasai, Chen Henry Wu, Weijia Shi, Tianlu Wang, Jiayi Xin, Rui Zhang, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu},
-      journal={},
+      journal={ArXiv},
       year={2022},
 }
 ```
