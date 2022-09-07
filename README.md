@@ -1,6 +1,6 @@
 # Selective Annotation Makes Language Models Better Few-Shot Learners
 
-Code for paper [Selective Annotation Makes Language Models Better Few-Shot Learners]()
+Code for paper [Selective Annotation Makes Language Models Better Few-Shot Learners](http://arxiv.org/abs/2209.01975)
 
 <img src="pics/pipeline.png" align="middle" width="75%">
 
