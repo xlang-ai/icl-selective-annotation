@@ -59,7 +59,7 @@ If you find our work helpful, please cite us
 ```
 @article{Selective_Annotation,
       title={Selective Annotation Makes Language Models Better Few-Shot Learners}, 
-      author={Hongjin Su, Jungo Kasai, Chen Henry Wu, Weijia Shi, Tianlu Wang, Jiayi Xin, Rui Zhang, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu},
+      author={Hongjin Su and Jungo Kasai and Chen Henry Wu and Weijia Shi and Tianlu Wang and Jiayi Xin and Rui Zhang and Mari Ostendorf and Luke Zettlemoyer and Noah A. Smith and Tao Yu},
       journal={ArXiv},
       year={2022},
 }
