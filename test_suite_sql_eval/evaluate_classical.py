@@ -58,7 +58,7 @@ def judge(args: Tuple[Dict[str, Any], str, bool]) -> (bool,str):
 
     pass_all_testcase = True
     import asyncio
-    for testcase_path in testsuite_paths:
+    for testcase_path in sorted(testsuite_paths):
 
         start = time.time()
         # print("testcase_path ",testcase_path)
@@ -84,8 +84,10 @@ def judge(args: Tuple[Dict[str, Any], str, bool]) -> (bool,str):
             pass_all_testcase = False
             break
         if not result_eq(gold_result, pred_result, order_matters):
-            # print("gold_result ", gold_query)
-            # print("pred_result ", pred)
+            print("gold_result ", gold_result)
+            print("pred_result ", pred_result)
+            print("gold_result ", gold_query)
+            print("pred_result ", pred)
             # # print("question ", gold_dict['question'])
             # print()
             error_source = "value error"
