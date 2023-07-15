@@ -112,7 +112,7 @@ if __name__=='__main__':
         processed_train_examples = [train_examples[idx] for idx in first_phase_selected_indices]
         processed_eval_examples = eval_examples
 
-        prompt_retrieval(train_embs=total_train_embeds,test_embs=total_eval_embeds,train_examples=train_examples,
+        prompt_retrieval(train_embs=total_train_embeds[first_phase_selected_indices],test_embs=total_eval_embeds,train_examples=processed_train_examples,
                          eval_examples=eval_examples,return_string=return_string,format_example=format_example,
                          maximum_input_len=maximum_input_len,single_context_example_len=single_input_len,label_map=label_map,args=args)
 
